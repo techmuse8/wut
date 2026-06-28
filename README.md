@@ -1,5 +1,12 @@
 [![Build status](https://github.com/devkitPro/wut/workflows/C%2FC%2B%2B%20CI/badge.svg)](https://github.com/devkitPro/wut/actions?workflow=C%2FC%2B%2B+CI)
 
+# Notice
+This fork of wut temporarily applies the changes from [PR #388](https://github.com/devkitPro/wut/pull/388) in the upstream repository.
+The PR is applied here in order to apply the improved RPL support before it gets merged upstream. Please note that there are still bugs
+and limitations that haven't been addressed yet. Credits go to both Exzap and Crementif for the original PR.
+
+Original readme and build instructions below:
+
 # wut
 Let's try to make a Wii U Toolchain / SDK for creating rpx/rpl.
 
